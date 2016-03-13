@@ -1,7 +1,7 @@
 {
-  "name": "caf-map",
+  "name": "playing around with maps",
   "version": "1.0.0",
-  "description": "Visualizing CAF projects over a map ",
+  "description": "maps playground",
   "main": "app/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vizzuality"
+    "url": "https://github.com/dhakelila/webpack-mapbox"
   },
-  "author": "Clara Linos @ Vizzuality",
+  "author": "Clara Linos",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.3.3",

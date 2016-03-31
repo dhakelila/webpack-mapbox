@@ -1,6 +1,5 @@
-# CAF map
+# Basic webpack structure
 
-This is a visualization of CAF projects over a map.
 
 ## Installation
 
